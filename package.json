@@ -18,7 +18,7 @@
     "@nuxtjs/better-auth": "0.2.2",
     "better-auth": "^1.7.1",
     "drizzle-orm": "^0.45.2",
-    "nuxt": "^4.5.2",
+    "nuxt": "^4.6.2",
     "tailwindcss": "^4.3.3",
     "twilio": "^6.1.0",
     "zod": "^4.4.3"
